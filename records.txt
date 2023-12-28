@@ -1,0 +1,9 @@
+____________Kalal Airlines______________
+______________Ticket_________________
+_____________________________________
+customer ID :786
+customer Name :murtaza
+customer Gender :male
+	 description :
+Destination 		 UK
+Flight cost:		44000
