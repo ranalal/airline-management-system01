@@ -20,3 +20,6 @@ The code is organized into classes (Details, Registration, Ticket) to encapsulat
 Some basic error handling is implemented, such as checking if a file exists before opening it. Static Members:
 
 Static members in the Details and Registration classes are used to share common data among instances. Note: It's worth mentioning that the usage of void main() is not standard C++ and is generally recommended to use int main() instead. Also, be cautious about using eof() in the while loop for file reading, as it might lead to unexpected behavior
+screenshot of Airline ticket as a xL file:
+<img width="459" alt="table" src="https://github.com/ranalal/airline-management-system01/assets/149492438/610b081e-a6d2-4b66-bd42-5f0b0c6d9d6a">
+
